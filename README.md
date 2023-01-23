@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**SamtredianJedi/SamtredianJedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### 
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning JavaScript
@@ -12,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.facebook.com/rezo.xuchua.5/
 - 😄 Pronouns: Reznov
 - ⚡ Fun fact: This World is simulation
--->
