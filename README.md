@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/fradiavolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fradiavolo" height="30" width="40" /></a>
-<a href="https://dev.to/ResidentEvilRezo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="residentevilrezo" height="30" width="40" /></a>
+<a href="https://dev.to/samtredianjedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="residentevilrezo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/advanced stalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="advanced stalker" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/the_godfather" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="the_godfather" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kaspersky_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kaspersky_01" height="30" width="40" /></a>
